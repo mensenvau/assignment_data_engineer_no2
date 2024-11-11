@@ -1,2 +1,5 @@
-# assignment_data_engineer_no2
-One SQL and ETL Task
+## SQL Query and Spark ML Logs Transformer
+
+### Task #1 (SQL Query Task)
+
+### Task #2 (Spark ML Logs Transformer)
