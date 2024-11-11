@@ -55,5 +55,3 @@ You have the following tables:
 -   You need to find the most popular hotel based on the **number of bookings**.
 -   Return the **primary photo** (photos[0]) of the most popular hotel.
 -   Remember that the query will be run on different datasets, so make sure it is generic.
-
-### Task #2
